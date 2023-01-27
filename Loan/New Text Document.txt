@@ -1,0 +1,18 @@
+Loan Management System
+
+A loan management system is a platform that automate every stage of the loan lifecycle, from application to closin.
+The LMS process is mrticulous, time consuming, and requires less human interventions.
+
+Technologies used:- 
+
+HTML, CSS, PHP, MySQL.
+
+Hardware and Software reqirements:- 
+
+Operating sys - Windows(7, 8, 10), Linux, MAC.
+
+Processor - 32 bit  to 64 bit
+
+Ram min - 4GB
+
+Platform used - VScode, XAMPP.  
